@@ -29,3 +29,6 @@ The objective was to transform raw sales data into an interactive dashboard that
 
 ## Project Status
 Completed
+## Dashboard Preview
+
+![Shoe Supply Dashboard](shoe-supply-dashboard.png)
