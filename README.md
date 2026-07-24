@@ -32,3 +32,11 @@ Completed
 
 ## Dashboard Preview
 ![Shoe Supply Dashboard](shoe_sales_dashboard.png)
+
+## Key Insights
+
+- Analyzed overall sales performance using key metrics including Total Revenue, Total Units Sold, Average Price, and Total Sales.
+- Evaluated revenue contribution across different shoe brands and sales channels to understand business performance.
+- Tracked monthly revenue trends to identify changes in sales performance over time.
+- Compared units sold across different countries to identify variations in market demand.
+- Used interactive filters for brand, colour, and country to allow users to explore specific segments of the data.
